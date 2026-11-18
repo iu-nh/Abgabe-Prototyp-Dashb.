@@ -90,6 +90,7 @@ fenster.geometry("700x600")
 #Beispiele, wie es am ende aussehen kann
 tk.Label(fenster, text="Studiengang: Informatik").pack(pady=5)
 tk.Label(fenster, text="Semester: 1 ").pack(pady=5)
+tk.Label(fenster, text="ECTS: 15 / 100 ").pack(pady=5)
 tk.Label(fenster, text="Module: - - - - - Note:").pack(pady=5)
 tk.Label(fenster, text="Mathematik - Klausur1: 3.5 ").pack(pady=5)
 tk.Label(fenster, text="Python - Portfolio1: 2.6 ").pack(pady=5)
